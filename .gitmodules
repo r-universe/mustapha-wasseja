@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mustapha-wasseja/mustapha-wasseja.r-universe.dev
 	branch = HEAD
-[submodule "qpmR"]
-	path = qpmR
-	url = https://github.com/mustapha-wasseja/qpmr
+[submodule "knbsdata"]
+	path = knbsdata
+	url = https://github.com/Mustapha-Wasseja/knbsdata
